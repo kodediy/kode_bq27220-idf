@@ -6,7 +6,7 @@ The BQ27220 is a single‑cell Li‑Ion/Li‑Polymer fuel gauge from Texas Instr
 
 | PMIC | Communication interface | Component name | Link to datasheet |
 | :------------: | :---------------------: | :------------: | :---------------: |
-| BQ27220         | I2C                     | kode_bq27220      | [PDF](https://github.com/kodediy/kode_bq27220-idf/blob/main/BQ27220_Datasheet_RevC.pdf) |
+| BQ27220         | I2C                     | kode_bq27220      | [PDF](https://github.com/kodediy/kode_bq27220-idf/blob/main/BQ27220_Datasheet_RevA.pdf) |
 
 ## Add to project
 

@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: Apache-2.0
+name: kodediy_bq27220
+version: 1.0.0
+description: "BQ27220 fuel gauge driver (ESP-IDF new I2C driver)"
+license: Apache-2.0
+repository: "https://github.com/kodediy/kode_bq27220-idf"
+dependencies:
+  idf: ">=5.4.0"
+  cmake_utilities: "0.*"
+
+

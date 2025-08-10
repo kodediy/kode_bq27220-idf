@@ -1,12 +1,12 @@
 # BQ27220 Fuel Gauge
 
-[![Component Registry](https://components.espressif.com/components/kodediy/kode_bq27220/badge.svg)](https://components.espressif.com/components/kodediy/kode_bq27220)
+[![Component Registry](https://components.espressif.com/components/kodediy/kode_bq27220-idf/badge.svg)](https://components.espressif.com/components/kodediy/kode_bq27220-idf)
 
 The BQ27220 is a single‑cell Li‑Ion/Li‑Polymer fuel gauge from Texas Instruments. This ESP‑IDF component provides an API to read battery metrics (voltage, current, temperature, state‑of‑charge, time‑to‑empty/full) and perform basic configuration/security operations (unseal/full‑access, design capacity, EDV) over I2C using the ESP‑IDF I2C master driver.
 
 | PMIC | Communication interface | Component name | Link to datasheet |
 | :------------: | :---------------------: | :------------: | :---------------: |
-| BQ27220         | I2C                     | kode_bq27220      | [PDF](https://github.com/kodediy/kode_bq27220/blob/main/BQ27220_Datasheet_RevC.pdf) |
+| BQ27220         | I2C                     | kode_bq27220      | [PDF](https://github.com/kodediy/kode_bq27220-idf/blob/main/BQ27220_Datasheet_RevC.pdf) |
 
 ## Add to project
 
